@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "oYFQUepjoKiQ67cFK0/76PlB6RBjA5mJNe8mqvdv3sDQz4+F09FgTGT0AAfleorr81ggBDzxu/3IiJX0nobCjg==",
+  "success": true,
+  "projectFilePath": "/Users/thiagoadriano/Documents/medium/dotnet-messagepack/dotnet-messagepack.csproj",
+  "expectedPackageFiles": [
+    "/Users/thiagoadriano/.nuget/packages/messagepack/2.5.124/messagepack.2.5.124.nupkg.sha512",
+    "/Users/thiagoadriano/.nuget/packages/messagepack.annotations/2.5.124/messagepack.annotations.2.5.124.nupkg.sha512",
+    "/Users/thiagoadriano/.nuget/packages/microsoft.net.stringtools/17.6.3/microsoft.net.stringtools.17.6.3.nupkg.sha512",
+    "/Users/thiagoadriano/.nuget/packages/system.runtime.compilerservices.unsafe/6.0.0/system.runtime.compilerservices.unsafe.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
